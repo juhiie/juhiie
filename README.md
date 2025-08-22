@@ -1,7 +1,7 @@
 # 👩‍💻 Hi, I’m Juveriya Zameer!  
 
 🎓 **Master’s in Applied Data Science (University of Ottawa)** | **Bachelor’s in Computer Science & Engineering**  
-📊 **Data Analyst | Machine Learning Enthusiast | Aspiring PhD Researcher**  
+📊 **Data Analyst | Machine Learning Enthusiast | Aspiring Researcher**  
 🌱 Exploring **Deep Learning, Reinforcement Learning, and Intrusion Detection Systems**  
 
 ---
@@ -29,6 +29,14 @@
 ---
 
 ## 📌 Featured Projects  
+
+### ⚡ [EV Charging Stations Optimization – Montréal](https://drive.google.com/file/d/15Vt1-HUhMP7V-kau2lWWBhaQzuYVHbG1/view?usp=sharing)  
+- 📊 Analyzed EV charging stations across **Montréal**  
+- 🧮 Applied **K-Means & DBSCAN clustering** to optimize charging station distribution  
+- 🗺️ Visualized geospatial clusters and **identified underserved areas**  
+- 🌱 Supports **sustainable mobility & smart city planning**
+
+---
 
 ### 🛡️ [Graph-Based Intrusion Detection using ML](https://github.com/juveriya-zameer/graph-ids-ml)  
 - 🚀 Improved detection of DDoS attacks with **93% accuracy**  
