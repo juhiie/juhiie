@@ -36,13 +36,13 @@
 
 ---
 
-### 🗨️ [NLP Chatbot](https://github.com/juveriya-zameer/nlp-chatbot)  
+### 🗨️ [NLP Chatbot](https://drive.google.com/file/d/1Rji9sfAZWI5BIrpVgj1YgGePlOnGhZIA/view?usp=sharing)  
 - 💬 Achieved **90%+ accuracy** in intent classification  
 - 🔄 Interactive chatbot deployment in Google Colab  
 
 ---
 
-### 🩺 [Diabetes Patient Readmission Classification](https://github.com/juveriya-zameer/diabetes-readmission)  
+### 🩺 [Diabetes Patient Readmission Classification](https://drive.google.com/file/d/1Fx6OEkVBsAK-AjZtWI36a6prdwTX9F40/view?usp=sharing)  
 - 🧪 Explored **clinical and demographic features** to assess readmission risk  
 - 📈 Random Forest achieved **AUC = 0.87**  
 
