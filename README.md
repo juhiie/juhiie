@@ -1,16 +1,82 @@
-## Hi there 👋
+# 👩‍💻 Hi, I’m Juveriya Zameer!  
 
-<!--
-**juhiie/juhiie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Master’s in Applied Data Science (University of Ottawa)** | **Bachelor’s in Computer Science & Engineering**  
+📊 **Data Analyst | Machine Learning Enthusiast | Aspiring PhD Researcher**  
+🌱 Exploring **Deep Learning, Reinforcement Learning, and Intrusion Detection Systems**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+- 🔍 Passionate about **machine learning research** in **cybersecurity, healthcare, and telecom analytics**  
+- 💡 Skilled in **data analysis, feature engineering, visualization, and predictive modeling**  
+- 🌐 Experienced across **telecom, healthcare, and supply chain** domains  
+- 🎯 Preparing for **PhD research in AI/ML** with focus on **optimization & reinforcement learning**  
+
+---
+
+## 🛠️ Tech Stack  
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+
+---
+
+## 📌 Featured Projects  
+
+### 🛡️ [Graph-Based Intrusion Detection using ML](https://github.com/juveriya-zameer/graph-ids-ml)  
+- 🚀 Improved detection of DDoS attacks with **93% accuracy**  
+- 📊 Leveraged graph metrics like **clustering coefficient** and **betweenness centrality**  
+
+---
+
+### 🗨️ [NLP Chatbot](https://github.com/juveriya-zameer/nlp-chatbot)  
+- 💬 Achieved **90%+ accuracy** in intent classification  
+- 🔄 Interactive chatbot deployment in Google Colab  
+
+---
+
+### 🩺 [Diabetes Patient Readmission Classification](https://github.com/juveriya-zameer/diabetes-readmission)  
+- 🧪 Explored **clinical and demographic features** to assess readmission risk  
+- 📈 Random Forest achieved **AUC = 0.87**  
+
+---
+
+### 📉 [Customer Churn Prediction & Retention Strategy](https://github.com/juveriya-zameer/customer-churn)  
+- 📊 **XGBoost** achieved **85% accuracy** with strong recall for churned customers  
+- 💡 Suggested actionable strategies for **customer retention**  
+
+---
+
+## 📖 Research Interests  
+- 🧠 Deep Learning & Reinforcement Learning  
+- 🛡️ Intrusion Detection & Cybersecurity Analytics  
+- 🚑 AI in Healthcare (predictive models for treatment planning & optimization)  
+- 📡 Telecom Analytics (churn, network optimization)  
+
+---
+
+## 📊 GitHub Stats  
+
+![Juveriya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=juveriya-zameer&show_icons=true&theme=radical)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juveriya-zameer&layout=compact&theme=radical)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=juveriya-zameer&theme=radical)  
+
+---
+
+## 🤝 Let’s Connect!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juveriya-zameer)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)  
+
+---
+
+✨ *“Data tells stories, I turn them into insights.”*  
