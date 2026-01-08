@@ -38,7 +38,7 @@
 
 ---
 
-### 🛡️ [Graph-Based Intrusion Detection using ML](https://github.com/juveriya-zameer/graph-ids-ml)  
+### 🛡️ [Graph-Based Intrusion Detection using ML](https://github.com/juhiie/Anomaly-detection-and-provenance-Analysis)  
 - 🚀 Improved detection of DDoS attacks with **93% accuracy**  
 - 📊 Leveraged graph metrics like **clustering coefficient** and **betweenness centrality**  
 
