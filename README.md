@@ -1,6 +1,6 @@
 # 👩‍💻 Hi, I’m Juveriya Zameer!  
 
-🎓 **Master’s in Applied Data Science (University of Ottawa)** | **Bachelor’s in Computer Science & Engineering**  
+🎓 **Master’s in Applied Data Science (University of Ottawa)** | **Bachelor’s in Computer Science & Engineering**  |**Incoming Master’s in Scientific Computing (University of Newfoundland)**
 📊 **Data Analyst | Machine Learning Enthusiast | Aspiring Researcher**  
 🌱 Exploring **Deep Learning, Reinforcement Learning, and Intrusion Detection Systems**  
 
